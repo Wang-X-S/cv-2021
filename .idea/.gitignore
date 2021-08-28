@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/dist/
+/cacje/
+/workspace.xml
+# 基于编辑器的 HTTP 客户端请求
+/httpRequests/
